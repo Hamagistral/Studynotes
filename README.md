@@ -10,6 +10,8 @@
 
    A note-taking app is definitely not a new or revolutionary idea, but it definitely solved my problem with online classes and I hope it will help other students too, and I will gladly take feedback from users and constantly improve the application. In conclusion, I believe that "Studynotes" is totally distinct in concept from previous projects and it is fairly complex in execution in my opinion, as I have spent months working on this application from learning about UI/UX and TailwindCSS for a better looking and responsive website to researching how to integrate any API to my Django application and keeping everything as secure as possible.
 
+---
+
 ![search](https://user-images.githubusercontent.com/66017329/179422281-54ed81d2-7ed8-4f32-a8e0-dce719d803a8.PNG)
 ![layout](https://user-images.githubusercontent.com/66017329/179422284-24092a78-f30c-4917-8b2f-35fe2f7d3f61.PNG)
 ![noteview](https://user-images.githubusercontent.com/66017329/179422290-3ae5a2dc-e021-44fb-aa59-6347f5b821f1.PNG)
